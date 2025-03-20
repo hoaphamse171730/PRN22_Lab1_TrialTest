@@ -1,0 +1,15 @@
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\bin\Debug\net8.0\Business Logic.deps.json
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\bin\Debug\net8.0\Business Logic.dll
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\bin\Debug\net8.0\Business Logic.pdb
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\bin\Debug\net8.0\Data Access.dll
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\bin\Debug\net8.0\Data Access.pdb
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\Business Logic.csproj.AssemblyReference.cache
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\Business Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\Business Logic.AssemblyInfoInputs.cache
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\Business Logic.AssemblyInfo.cs
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\Business Logic.csproj.CoreCompileInputs.cache
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\Business.31A8D8CC.Up2Date
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\Business Logic.dll
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\refint\Business Logic.dll
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\Business Logic.pdb
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Business Logic\obj\Debug\net8.0\ref\Business Logic.dll

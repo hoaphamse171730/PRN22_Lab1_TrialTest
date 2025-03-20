@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PE_PRN222_SP25_TrialTest_PhanPhamHoa.props" />
+</Project>

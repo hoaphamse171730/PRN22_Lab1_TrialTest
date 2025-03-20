@@ -1,0 +1,23 @@
+﻿@page
+@model PharmaceuticalManagement_PhanPhamHoa.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login";
+}
+<h2>Login</h2>
+
+<form method="post">
+    <div>
+        <label>Email Address:</label>
+        <input type="email" asp-for="EmailAddress"/>
+    </div>
+    <div>
+        <label>Password:</label>
+        <input type="password" asp-for="Password" />
+    </div>
+    <button type="submit">Login</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.ErrorMessage))
+{
+    <div style="color:red;">@Model.ErrorMessage</div>
+}

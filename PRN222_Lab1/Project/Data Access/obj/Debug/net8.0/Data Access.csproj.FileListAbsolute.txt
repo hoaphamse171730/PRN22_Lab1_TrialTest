@@ -1,0 +1,14 @@
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\bin\Debug\net8.0\Data Access.deps.json
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\bin\Debug\net8.0\Data Access.runtimeconfig.json
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\bin\Debug\net8.0\Data Access.dll
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\bin\Debug\net8.0\Data Access.pdb
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\Data Access.csproj.AssemblyReference.cache
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\Data Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\Data Access.AssemblyInfoInputs.cache
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\Data Access.AssemblyInfo.cs
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\Data Access.csproj.CoreCompileInputs.cache
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\Data Access.dll
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\refint\Data Access.dll
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\Data Access.pdb
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\Data Access.genruntimeconfig.cache
+C:\Users\my pc\OneDrive\Desktop\PE Trial Test\PRN222\Project\Data Access\obj\Debug\net8.0\ref\Data Access.dll

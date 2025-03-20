@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\my pc\\OneDrive\\Desktop\\PE Trial Test\\PRN222\\Project\\PE_PRN222_SP25_TrialTest_PhanPhamHoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6F9758-8BDC-4E9A-A1F0-C7205AF6E376}|PharmaceuticalManagement_PhanPhamHoa.csproj|c:\\users\\my pc\\onedrive\\desktop\\pe trial test\\prn222\\project\\pe_prn222_sp25_trialtest_phanphamhoa\\pages\\medicine\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6F9758-8BDC-4E9A-A1F0-C7205AF6E376}|PharmaceuticalManagement_PhanPhamHoa.csproj|solutionrelative:pages\\medicine\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\my pc\\OneDrive\\Desktop\\PE Trial Test\\PRN222\\Project\\PE_PRN222_SP25_TrialTest_PhanPhamHoa\\Pages\\Medicine\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Medicine\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\my pc\\OneDrive\\Desktop\\PE Trial Test\\PRN222\\Project\\PE_PRN222_SP25_TrialTest_PhanPhamHoa\\Pages\\Medicine\\Delete.cshtml",
+              "RelativeToolTip": "Pages\\Medicine\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T02:44:33.181Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
